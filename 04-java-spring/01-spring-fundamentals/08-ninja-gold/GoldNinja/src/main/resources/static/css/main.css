@@ -1,0 +1,33 @@
+body {
+	background-color: #efefef;
+
+}
+
+.building {
+	min-height: 200px;
+	min-width: 200px;
+	text-align: center;
+	border: 2px solid black;
+	display: inline-block;
+}
+
+h3 {
+	margin-top: 20px
+}
+
+.activities {
+	margin-top: 50px;
+	width: 800px;
+	overflow-y: scroll;
+	border: 2px solid black;
+	min-height: 200px;
+	max-height: 200px;
+}
+
+.red {
+	color: pink;
+}
+
+.green {
+	color: orange;
+}
